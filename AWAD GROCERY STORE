@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Awad Grocery Store</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Awad Grocery Store</h1>
+        <p>Owned by Lun Dan</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#products">Products</a></li>
+            <li><a href="#about">About Us</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <section id="home">
+        <h2>Welcome to Awad Grocery Store!</h2>
+        <p>Your one-stop shop for fresh groceries and daily needs.</p>
+    </section>
+
+    <section id="products">
+        <h2>Our Products</h2>
+        <ul class="product-list">
+            <li>🍎 Fresh Fruits</li>
+            <li>🥬 Vegetables</li>
+            <li>🍞 Bakery Items</li>
+            <li>🥛 Dairy Products</li>
+            <li>🍚 Grains & Pulses</li>
+        </ul>
+    </section>
+
+    <section id="about">
+        <h2>About Us</h2>
+        <p>ATC was founded by Lun Dan with the mission to provide fresh, high-quality groceries at affordable prices. We believe in local sourcing and excellent customer service.</p>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Phone: 6377596085</p>
+        <p>Location: Rawat Aabadi Phanata</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 ATC Grocery Shop. All rights reserved.</p>
+    </footer>
+</body>
+</html>
